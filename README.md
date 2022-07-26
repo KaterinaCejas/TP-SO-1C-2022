@@ -5,7 +5,7 @@
 </p>
 
 ## :round_pushpin: Integrantes:
-| Integrante | Módulo |
+| Integrantes | Módulos |
 | --- | --- |
 | Araceli Soffulto | Kernel/Consola |
 | Katerina Cejas | Memoria |
@@ -46,4 +46,4 @@ Sirve para ejecutar cada módulo en una máquina distinta. Cambia la IP en el ar
 
  :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks:  :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks:
  
- Probablemente haya funciones que jamás llamamos y que por lo tanto son completamente inútiles, al igual que muchos logs, variables, etc, pero el tp ***anda*** y es mas que suficiente. Si les sirve algo, adelante :blush:
+ Probablemente haya funciones que jamás llamamos y que por lo tanto son completamente inútiles, al igual que muchos logs que no borramos, variables, etc, pero el tp ***anda*** y eso es mas que suficiente. Si les sirve algo, adelante :blush:
