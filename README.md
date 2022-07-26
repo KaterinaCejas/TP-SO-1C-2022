@@ -4,6 +4,10 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/49104903/181124809-e3115a23-4339-4637-99ee-80288947d5a9.jpg">
 </p>
 
+<p align="center">
+Trabajo Práctico de Sistemas Operativos 2022 1C - UTN FRBA
+</p>
+
 ## :round_pushpin: Integrantes:
 | Integrantes | Módulos |
 | --- | --- |
@@ -35,6 +39,16 @@ Documento de pruebas: https://docs.google.com/document/d/1xeNERoKm8py1wdQAUFodzg
   * 3. Instala la shared library "psicoLibrary"
 
   * 4. Compila todos los modulos (MemoriaSwap, Kernel, CPU y Consola)
+
+## :vertical_traffic_light: Orden de ejecución y parámetros:
+
+:one: Ejecutar *MemoriaSwap* --> ```./MemoriaSwap <---NOMBRE ARCHIVO CONFIG--->```
+
+:two: Ejecutar *CPU* --> ```./CPU <---NOMBRE ARCHIVO CONFIG--->```
+
+:three: Ejecutar *Kernel* --> ```./Kernel <---NOMBRE ARCHIVO CONFIG--->```
+
+:four: Ejecutar la o las *Consolas* --> ```./Consola <---TAMANIO PROCESO---> <---NOMBRE ARCHIVO CONFIG--->```
   
 ## :house: Para cambiar IPs: 
 
