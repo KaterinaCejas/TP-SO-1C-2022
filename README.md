@@ -44,6 +44,6 @@ Sirve para ejecutar cada módulo en una máquina distinta. Cambia la IP en el ar
 
 :two: Ejecutar el comando ```. ./cambiarIps.sh <---INSERTAR KERNEL_IP---> <---INSERTAR MEMORIA_IP---> <---INSERTAR CPU_IP---> ```
 
- :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks:  :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks:
+ :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks:  :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: :fireworks: 
  
  Probablemente haya funciones que jamás llamamos y que por lo tanto son completamente inútiles, al igual que muchos logs que no borramos, variables, etc, pero el tp ***anda*** y eso es mas que suficiente. Si les sirve algo, adelante :blush:
